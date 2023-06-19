@@ -1,0 +1,28 @@
+body {
+  background-image: url("./image/pexels-cesar-perez-733745.jpg");
+  background-repeat: no-repeat;
+}
+
+li {
+  padding: 2rem;
+  font-size: 30px;
+  color: blue;
+  text-transform: uppercase;
+  background-color: aqua;
+  display: inline;
+  width: 500px;
+  margin: auto;
+  border: 5px solid yellow;
+}
+li a {
+  text-decoration: none;
+}
+.non {
+  color: blue;
+  margin-top: 5px;
+}
+.main {
+  margin-top: 2rem;
+  position: sticky;
+  top: 2px;
+}
